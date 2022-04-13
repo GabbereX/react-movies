@@ -1,6 +1,7 @@
 # Проект фильмотеки на ReactJS
 ____
 DEMO: [React Movies](https://gabberex.github.io/react-movies/)
+____
 API: [OMDBAPI.COM](https://www.omdbapi.com)
 ____
 ## Установка всех пакетов
@@ -11,7 +12,7 @@ ____
 >npm run build:dev
 ## Сформировать для продукта
 >npm run build:prod
-___
+____
 ### Возможности:
 - Поиск по фильмам
 - Фильтрация по фильмам
