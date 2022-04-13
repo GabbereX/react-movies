@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Alex Gabber",
   "private": true,
-  "homepage": "https://gabberex.github.io/react-movies/",
+  "homepage": "/react-movies/",
   "scripts": {
     "build:dev": "cross-env NODE_ENV=development webpack --config webpack.config.js",
     "build:prod": "cross-env NODE_ENV=production webpack --config webpack.config.js",
