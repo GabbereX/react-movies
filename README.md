@@ -1,5 +1,6 @@
 # Проект фильмотеки на ReactJS
 ____
+DEMO: [React Movies](https://gabberex.github.io/react-movies/)
 API: [OMDBAPI.COM](https://www.omdbapi.com)
 ____
 ## Установка всех пакетов
